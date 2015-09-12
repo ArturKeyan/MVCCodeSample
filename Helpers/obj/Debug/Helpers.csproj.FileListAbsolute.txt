@@ -1,0 +1,4 @@
+C:\Users\Naxshun User\Documents\Visual Studio 2013\Projects\MVCCodeSample\Helpers\bin\Debug\Helpers.dll
+C:\Users\Naxshun User\Documents\Visual Studio 2013\Projects\MVCCodeSample\Helpers\bin\Debug\Helpers.pdb
+C:\Users\Naxshun User\Documents\Visual Studio 2013\Projects\MVCCodeSample\Helpers\obj\Debug\Helpers.dll
+C:\Users\Naxshun User\Documents\Visual Studio 2013\Projects\MVCCodeSample\Helpers\obj\Debug\Helpers.pdb
