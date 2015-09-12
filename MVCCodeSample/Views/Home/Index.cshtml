@@ -2,4 +2,24 @@
     ViewBag.Title = "Index";
 }
 
-<h2>Index</h2>
+<h2>Home</h2>
+
+<p>
+    @Html.ActionLink("Simple Authentication Test, No Role Requierd", "DetailsAuth")
+</p>
+
+<p>
+    @Html.ActionLink("Administrator Test", "DetailsAdmin")
+</p>
+
+<p>
+    @Html.ActionLink("Moderator Test", "DetailsMod")
+</p>
+
+<p>
+    @Html.ActionLink("Guest Test", "DetailsGuest")
+</p>
+
+<p>
+    @Html.ActionLink("Log Out", "Logout", "User")
+</p>
